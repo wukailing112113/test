@@ -18,6 +18,7 @@ CREATE DATABASE IF NOT EXISTS guns DEFAULT CHARSET utf8 COLLATE utf8_general_ci;
 
 USE guns;
 
+
 SET FOREIGN_KEY_CHECKS=0;
 
 -- ----------------------------
